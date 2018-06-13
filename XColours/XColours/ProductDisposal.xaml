@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XColours.ProductDisposal">
+
+    <AbsoluteLayout>
+
+        <Button Text="Scan barcode" 
+                Clicked="OnScanBarcodeClick" 
+                AbsoluteLayout.LayoutBounds="0.5, 0.5, 300, 75" 
+                AbsoluteLayout.LayoutFlags="PositionProportional">
+        </Button>
+
+        <Button Text="Find Product"
+                Clicked="OnFindProductClick"
+                AbsoluteLayout.LayoutBounds="0.5, 0.65, 300, 75" 
+                AbsoluteLayout.LayoutFlags="PositionProportional">
+        </Button>
+
+    </AbsoluteLayout>
+
+</ContentPage>

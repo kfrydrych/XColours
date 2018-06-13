@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XColours.DisposalModal">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            
+            <TableView AbsoluteLayout.LayoutBounds="0.5, 0.1, 0.8, 0.5" AbsoluteLayout.LayoutFlags="All">
+                <TableRoot>
+                    <TableSection Title="Product Details">
+                        <TextCell x:Name="tblCode" Text="Code" />
+                        <TextCell x:Name="tblDescription" Text="Description" />
+                        <TextCell x:Name="tblBarcode" Text="Barcode" />
+                        <TextCell x:Name="tblQuantity" Text="Quantity" />
+                        <TextCell x:Name="tblManufacturer" Text="Manufacturer" />
+                        <TextCell x:Name="tblType" Text="Type" />
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+
+            <Button x:Name="disposeProductButton" 
+                    Text="Dispose" 
+                    Clicked="OnDisposeClick"
+                    AbsoluteLayout.LayoutBounds="0.5, 0.7, 300, 75" 
+                    AbsoluteLayout.LayoutFlags="PositionProportional">
+            </Button>
+            <Button x:Name="cancelButton" 
+                    Text="Cancel" 
+                    Clicked="OnCancelClick"
+                    AbsoluteLayout.LayoutBounds="0.5, 0.8, 300, 75" 
+                    AbsoluteLayout.LayoutFlags="PositionProportional">
+            </Button>
+            
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

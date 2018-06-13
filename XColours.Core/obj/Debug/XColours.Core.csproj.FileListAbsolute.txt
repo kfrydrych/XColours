@@ -1,0 +1,13 @@
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\XColours.Core.dll.config
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\XColours.Core.dll
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\XColours.Core.pdb
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Crash\source\repos\XColours\XColours.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Crash\source\repos\XColours\XColours.Core\obj\Debug\XColours.Core.csproj.App.config
+C:\Users\Crash\source\repos\XColours\XColours.Core\obj\Debug\XColours.Core.csproj.CoreCompileInputs.cache
+C:\Users\Crash\source\repos\XColours\XColours.Core\obj\Debug\XColours.Core.dll
+C:\Users\Crash\source\repos\XColours\XColours.Core\obj\Debug\XColours.Core.pdb
